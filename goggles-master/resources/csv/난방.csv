@@ -1,0 +1,1039 @@
+순번,용어,분야,영문,설명
+1,ABB,District Heating,Air Blast Circuit Breaker,공기식 차단기
+2,ABB,District Heating,Asea Brown Boveri,발전설비 제작업체명
+3,ABC,District Heating,Automatic Boiler Control System,보일러 자동제어 계통
+4,ABC,District Heating,Activity Based Cost accounting,활동기준원가계산
+5,ABM,District Heating,Activity Based Cost Management,활동기반 원가관리
+6,ABMA,District Heating,American Boiler Manufacturer Association,미국 보일러제작자 협회
+7,ABO,District Heating,Boiler Auxiliary Operator,보일러 보조운영요원
+8,ABS,District Heating,Automatic Boiler Start Up & Shut Down System,보일러 자동기동정지 제어계통
+9,ABS,District Heating,Alkali Benzene Sulfate,경성세제 원료
+10,ABS,District Heating,Asset Backed Securities,자산유동화증권
+11,Abs.,District Heating,Absolute,절대적
+12,AC,District Heating,Alternating Current,교류
+13,AC,District Heating,Air Conditioner,공기조화장치
+14,ACB,District Heating,Air Circuit Breaker,공기식 차단기
+15,ACC.,District Heating,Accumulator,축열조
+16,ACC,District Heating,Active Clearance Control,운전중 터빈Clearance조정장치
+17,Acc.,District Heating,Acceleration,가속
+18,ACC,District Heating,Air Cooled Condenser System,공기냉각장치
+19,ACC,District Heating,Automatic Combustion Control System,자동연소제어계통
+20,ACI,District Heating,American Concreate Institute,미국 콘크리크협회
+21,ACR,District Heating,Alkali Copper Removal,알카리세정
+22,ACS,District Heating,Air Compressor System,공기압축기 시스템
+23,ACS,District Heating,Analog Control System,아날로그 제어계통
+24,ACWP,District Heating,Auxiliary Cooling Water Pump,보조냉각수 펌프
+25,AD,District Heating,Air Dryer,공기건조기
+26,Admin. BD,District Heating,Administration Building,종합사무실동
+27,ADS,District Heating,Automatic Distribution System,배전자동화시스템
+28,A/E,District Heating,Air Ejector,공기 추출기
+29,AE,District Heating,Architectural Engineering,건축공학
+30,AE,District Heating,Accoustic Emission,음향방향기술
+31,AE,District Heating,Analysis Element,분석요소
+32,AEG,District Heating,Allgemeine Elektrisitats Gesellschaft,독일발전설비 제작업체명
+33,AF,District Heating,Availability Factor,가동율
+34,AF,District Heating,As Fired,연소식(발열량)
+35,AFBC,District Heating,Atmospheric Fluidizing Bed Combustion,상압 유동층연소
+36,AFC,District Heating,Automatic Frequency Control,자동 주파수 조정
+37,AFR,District Heating,Automatic Frequency Regulator,자동 주파수 조정기
+38,AFU,District Heating,Automatic Follow Up Device,자동추종장치
+39,AGC,District Heating,Automatic Generation Control,자동 발전량 제어
+40,AGCM,District Heating,Annual Generation Cost Method,연간 발전비용 계산법
+41,AGMA,District Heating,American Gear Manufacturer Association,미국 기어제작자 협회
+42,A/H,District Heating,Air Pre-heater,공기예열기
+43,AH,District Heating,Ampere Hour,축전지 용량의 단위
+44,AHOP,District Heating,Air Pre-heater Oil Pump,공기예열기 급유펌프
+45,AHP,District Heating,Analytic Hierarchy Process ,계층화분석법
+46,AHU,District Heating,Air Handling Unit,공기조화설비
+47,AI,District Heating,Artificial Intelligence,인공지능
+48,AICPA,District Heating,American Institute of Certified Public Accountant,미국공인회계사
+49,ALD,District Heating,Automatic Load Dispatcher System,자동 급전장치
+50,ALO,District Heating,Alarm Lock Out Relay,경보폐쇄계전기
+51,ALR,District Heating,Automatic Load Regulator,자동 부하조정장치
+52,ALTS,District Heating,Automatic Load Transfer Switch,자동 부하 절환스위치
+53,Amp.,District Heating,Ampere,전류
+54,Amp.,District Heating,Amplifier,증폭기
+55,AMS,District Heating,Admission Mode Selection,분사방식선택
+56,ANN.,District Heating,Annunciator,경보장치
+57,ANSI,District Heating,American National Standards Institute,미국표준협회
+58,AOP,District Heating,Auxiliary Oil Pump,보조 윤활유펌프
+59,AP,District Heating,Ash Pump,회처리 펌프
+60,APC,District Heating,Automatic Plant Control System,발전소 자동제어계통
+61,APC,District Heating,Automatic Phase Control,자동위상제어
+62,APFR,District Heating,Automatic Power Factor Regulator,자동 역율 조정장치
+63,API,District Heating,American Petroleum Institute,미국석유협회
+64,App.,District Heating,Approval,승인
+65,Approx.,District Heating,Approximately,약(約)
+66,Aq,District Heating,Aqua,수주(水柱)
+67,AQR,District Heating,Automatic Var Regulator,자동무효전력조정장치
+68,AR,District Heating,As Received,인수식
+69,AR,District Heating,Aux. Power Consumption Ratio,소내전력소비율
+70,ARDV,District Heating,Air Relay Dump Valve,공기구동 차단밸브
+71,ARR,District Heating,Accounting Rate of Return,회계적 수익율
+72,AS,District Heating,Air Supply,공기공급
+73,AS,District Heating,Ampere Meter Switch,전류계스위치
+74,ASA,District Heating,American Standards Association,미국표준협회
+75,ASME,District Heating,American Society Of Mechanical Engineers,미국기계학회
+76,ASP,District Heating,Ash Sluice Pump,회처리펌프
+77,ASS'Y,District Heating,Assembly,몸체
+78,ASTM,District Heating,American Society Of Testing Masterials,미국재료시험학회
+79,AT,District Heating,Acceptance Test,인수시험
+80,Atm.,District Heating,Atmosphere,대기
+81,ATM,District Heating,Automated[Automatic] Teller Machine ,현금 자동 입금·지급기
+82,ATOM.,District Heating,Atomizing,분무
+83,ATP,District Heating,Authorization To Proceed,사전착수지시서
+84,ATS,District Heating,Automatic TBN-GEN Start up & Shut down System,T/G 자동기동정지제어계통
+85,ATS,District Heating,Advanced Turbine System,신기술적용 터빈시스템
+86,Attemp.,District Heating,Attemperator,과열저감기
+87,Aux.,District Heating,Auxiliary,보조의
+88,AVR,District Heating,Automatic Voltage Regulator,자동 전압조정기
+89,AWS,District Heating,American Welding Society,미국용접협회
+90,AWT,District Heating,Alkalized Water Treatment,알카리성 수처리
+91,AVR,District Heating,Automatic Voltage Regulator,자동 전압조정기
+92,B&A,District Heating,Bid & Award,입찰 및 낙찰
+93,BAM,District Heating,Business Activity Monitoring,업무활동모니터링
+94,Batt.,District Heating,Battery,"축전지, 배터리"
+95,BBL,District Heating,Barrel,체적단위(0.519Kℓ)
+96,BC,District Heating,Bunker-C,벙커C유
+97,BC,District Heating,Battery Charger,축전지 충전장치
+98,BCO,District Heating,Boiler Control Operator,보일러 제어운영요원
+99,BCP,District Heating,Boiler Control Panel,보일러 제어판넬
+100,BCS,District Heating,Burner Control System,버너제어계통
+101,BCT,District Heating,Bushing Current Transformer,부싱변류기(CT)
+102,BCWP,District Heating,Bearing Cooling Water Pump,베어링냉각수펌프
+103,BDV,District Heating,Blow Down Valve,증기배기밸브
+104,BEP,District Heating,Break Even Point,손익분기점(NPV=0)
+105,B/F,District Heating,Bag Filter,백필터
+106,BF,District Heating,Back Fire,역화(逆火)
+107,BFBC,District Heating,Bubbling Fluidizing Bed Combustion,비등유동층연소
+108,BFBP,District Heating,Boiler Feed Booster Pump,보일러급수 승압펌프
+109,BFP,District Heating,Boiler Feed Water Pump,보일러 급수펌프
+110,BHK,District Heating,Babcock Hitachi Kabusiki Kaisha ,일본발전설비제작업체
+111,BI,District Heating,Bidder Information,입찰유의서
+112,BI,District Heating,Business Intelligence,기업정보
+113,BI,District Heating,Brand Identity,브랜드이미지 통일화
+114,BL,District Heating,Battery Limit,공사경계선
+115,B/L,District Heating,Bill Of Lading,선하증권
+116,BLR,District Heating,Boiler,보일러
+117,BM,District Heating,Bill Of Material,자재명세서
+118,BM,District Heating,Bench Mark ,기준점
+119,BMCR,District Heating,Boiler Maximum Continuous Rating ,보일러 연속 최대증발량
+120,BMS,District Heating,Burner Management System,버너관리설비
+121,BNK,District Heating,Bunker,"저장조, 벙커"
+122,BNR,District Heating,Burner,버너
+123,BO,District Heating,Boiler Operator,보일러 현장운영요원
+124,BOD,District Heating,Biochemical Oxygen Demand,생화학적 산소요구량
+125,BOG,District Heating,Boil Off Gas,LNG증발가스
+126,BOP,District Heating,Balance Of Plant,보조기기
+127,BP,District Heating,Best Practice,베스트 프랙티스
+128,BPD,District Heating,Barrel Per Day,일일 사용배럴
+129,BPM,District Heating,Business Performance Management,업무성과관리
+130,BPO,District Heating,Business Process Outsourcing,업무처리 아웃소싱
+131,BPR,District Heating,Business Process Re-engineering,업무재설계
+132,BPS,District Heating,Business Planning & Simulation,사업계획 시뮬레이션
+133,B/Q,District Heating,Bill Of Quantities,수량명세서
+134,BRG,District Heating,Bearing,베어링
+135,BRK,District Heating,Breaker,차단기
+136,BS,District Heating,British Standard,영국표준규격
+137,BS,District Heating,Bore Scope,내시경
+138,BSC,District Heating,Balanced Scorecard ,균형성과지표
+139,BSCA,District Heating,Boiler Stress & Condition Analyzer,보일러 열응력 및 상태분석장치
+140,BSP,District Heating,Burner Start Panel,버너제어판넬
+141,BT,District Heating,Bourdon Tube,부르돈 관
+142,BTO,District Heating,Business Transformation Outsourcing,업무변혁 아웃소싱
+143,BTV,District Heating,Bleeder Trip Valve,추기 차단밸브
+144,BUOT,District Heating,Back Up Overspeed Trip,터빈 후비보호 과속도 정지
+145,BW,District Heating,Business Warehouse(=DW),사내 데이터창고
+146,BWCP,District Heating,Boiler Water Circulation Pump,보일러순환펌프
+147,C,District Heating,Capacitor ,콘덴서
+148,CA,District Heating,Customer Analysis,고객분석
+149,CA,District Heating,Chang Agent,변화관리자
+150,CAD,District Heating,Cold Air Damper,저온공기댐퍼
+151,CAD/CAM,District Heating,Computer Aided Design/Manufacturing,검퓨터 설계/제작
+152,Cap.,District Heating,Capacity ,용량
+153,CAP,District Heating,Change Acceleration Process,변혁가속화 프로세스
+154,CAR,District Heating,Correct Action Request,시정조치요구서
+155,CAS,District Heating,Compressor Air System,압축공기계통
+156,CATV,District Heating,Community Antenna Television,유선 TV
+157,CB,District Heating,Circuit Breaker,회로차단기
+158,CB,District Heating,Convertible Bond,전환사채
+159,CBD,District Heating,Continuous Blow Down,연속배출수
+160,CBP,District Heating,Cost Based Pool,변동비반영시장
+161,CC,District Heating,Cation Conductivity,양이온전도도
+162,C/C,District Heating,Combined Cycle,복합사이클
+163,CCO,District Heating,Commencement Of Commercial Operation,상업운전개시
+164,CCPP,District Heating,Combined Cycle Power Plant,복합발전소
+165,CCR,District Heating,Central Control Room,중앙제어실
+166,CCR,District Heating,Contract Change Request,계약변경요구서
+167,CCS,District Heating,Combustion Control System,연소제어계통
+168,CCS,District Heating,Construction Contract Schedule,시공계약공정표
+169,CCS,District Heating,Construction Control Schedule,시공관리기준공정표
+170,CCS,District Heating,Cost Control System,공사비관리체계
+171,CCT,District Heating,Compensate Current Transformer,보상변류기
+172,CCTV,District Heating,Closed Circuit Television,폐쇄회로 TV
+173,CCW,District Heating,Closed Cooling Water,소내보조냉각수
+174,CCW,District Heating,Counter Clockwise,반시계방향
+175,CCWP,District Heating,Closed Cooling Water Pump,보조냉각수펌프
+176,CD,District Heating,Certificate of Deposit,양도성예금증서
+177,CDM,District Heating,Clean Development Mechanism,청정개발체제
+178,CDP,District Heating,Career Development Program,능력개발프로그램
+179,CDS,District Heating,Contract Delivery Schedule,계약상 기자재공급일정
+180,CE,District Heating,Conductivity Element,전도도 검출장치
+181,CE,District Heating,Collecting Electrode,집진기의 집진극
+182,CEGB,District Heating,Central Electricity Generating Board,영국중앙발전국
+183,CEP,District Heating,"Condensate Extraction Pump(=COP, MCP)",복수펌프
+184,CEP,District Heating,Condenser End Point,복수기종단점(증기팽창선)
+185,Cer.,District Heating,Ceramic,세라믹
+186,CES,District Heating,Community Energy System,소형열병합발전시스템
+187,CF,District Heating,Cost And Freight,운임포함 물품가격
+188,CF.,District Heating,Clarifier,응집조
+189,CFBC,District Heating,Circulating Fluidzing Bed Combustion,순환유동층연소
+190,CFM,District Heating,Cubic Feet Per Minute,체적유량단위(Ft
+191,,District Heating,,/min)
+192,CFO,District Heating,Cash From Operation,영업활동으로 인한 현금흐름
+193,CFO,District Heating,Chief Financial Officer,최고재무관리자
+194,CFS,District Heating,Critical Success Factor,핵심성공요인
+195,CGCC,District Heating,Coal Gasification Combine Cycle,석탄가스화복합사이클
+196,CGS,District Heating,Centimeter Gram System,CGS 단위계
+197,CH Ratio,District Heating,Carbon Hydrogen Ratio,탄소/수소비율
+198,CHP,District Heating,Combined Heat & Power Plant,열병합발전소
+199,CHU,District Heating,Centigrade Heat Unit,열량의 단위
+200,C/I,District Heating,Cut In,기동
+201,CI,District Heating,Combustion Inspection,가스터빈 연소실점검
+202,CI,District Heating,Corporate Identity,기업이미지 통합
+203,CIC,District Heating,Certified Informatization Company,정보화우수기업
+204,CIF,District Heating,Cost Insurance & Freight,보험료포함 물품가격
+205,CIMS,District Heating,Construction Integrated Management System,건성정보관리시스템
+206,CIO,District Heating,Chief Information Officer,정보화담당임원
+207,CIR,District Heating,Critical Items Report,중요문제점보고서
+208,Cir.,District Heating,Circulating,순환의
+209,CIS,District Heating,Contract Information Sheet,계약정보지
+210,CIS,District Heating,Contruction Intermediate Schedule,건설공정표
+211,CIS,District Heating,Chemical Injection System,화학약품 주입계통
+212,CIU,District Heating,Communication Interface Unit,통신중계장치
+213,CKO,District Heating,Chief Knowledge Officer,지식경영총괄책임자
+214,CL,District Heating,Center Line,중심선
+215,CLE ,District Heating,Cycle Life Expenditure,싸이클 수명소명
+216,CLG,District Heating,Cooling,냉각
+217,CLR,District Heating,Cooler,냉각기
+218,CM,District Heating,Construction Management,건설(시공)관리
+219,CM,District Heating,Contribution Margin Ratio,공헌이익율
+220,CMA,District Heating,Cash Management Account,어음관리계좌
+221,CMS,District Heating,Cubic Meter Per Second,유량단위(㎥/sec)
+222,CO,District Heating,Control Operator,중앙제어실 근무자
+223,CO,District Heating,Controlling,관리회계
+224,C/O,District Heating,Commercial Operation,상업운전(준공시점)
+225,C/O,District Heating,Certificate Of Origin,원산지증명서
+226,COD,District Heating,Chemical Oxygen Demand,화학적 산소요구량
+227,Coef.,District Heating,Coefficient,계수
+228,COFP,District Heating,Constrained Off Price,제약감소정산가격
+229,Co-Gen,District Heating,Co-generation Plant,소형열병합발전시설
+230,Coll.,District Heating,Collector,집전자(集電子)
+231,COM,District Heating,Coal & Oil Mixture,"석탄, 기름 혼합연료"
+232,COMP.,District Heating,Compressor,압축기
+233,COMPT.,District Heating,Compartment,"실, 격벽"
+234,CONC.,District Heating,Concentrated,농축된
+235,COND.,District Heating,Condenser,복수기
+236,Conn.,District Heating,Connection,연결
+237,CONV.,District Heating,Conveyor,운반장치
+238,COP,District Heating,"Condensate Pump(=CEP, MCP)",복수펌프
+239,COP,District Heating,Community of Practice,지식소그룹
+240,CoP,District Heating,Community Of Practice,지식공동체
+241,COS,District Heating,Cut Out Switch,단로스위치
+242,COS,District Heating,Condition Of Service,공급조건
+243,CP ,District Heating,Convection Pass,대류열전달 통로
+244,CP ,District Heating,Control Panel ,제어반
+245,CP,District Heating,Capacity Payment,용량요금
+246,CP,District Heating,Commercial Paper,기업어음
+247,CPD,District Heating,Capacitor Potential Device,축전지의 일종
+248,CPLG,District Heating,Coupling,커플링
+249,CPM,District Heating,Critical Path Method,최상경로분석법
+250,CPP,District Heating,Condensate Polishing Plant,복수탈염장치
+251,CPU,District Heating,Central Processing Unit,중앙처리장치
+252,CR,District Heating,Collector Ring,집전환(集電環)
+253,CR,District Heating,Capability Rating,운전가능정격
+254,CRH ,District Heating,Cold Reheater,저온재열기
+255,CRM,District Heating,Customer Relationship Management,고객관계경영
+256,CRT,District Heating,Cathode Ray Tube,단말기
+257,CRV,District Heating,Combined Reheat Valve,재열증기차단 및 제어밸브
+258,CS,District Heating,Code & Standard,규격 및 기준
+259,CS,District Heating,Control Switch,제어스위치
+260,CS,District Heating,Customer Satisfaction,고객만족
+261,CSF,District Heating,Critical Success Factor ,핵심성공요인
+262,CSI,District Heating,Consumer Sentiment Index,고객만족지수
+263,CSM,District Heating,Customer Satisfaction Management,고객만족경영
+264,CSO,District Heating,Customer Satisfaction Officer,고객만족경영자
+265,CSS,District Heating,Construction Summary Schedule,시공종합공정표
+266,CSG,District Heating,Casing,외함
+267,CSR,District Heating,Construction Status Report,건설현황보고
+268,CSR,District Heating,Commissioning Status Report,시운전현황보고
+269,CST,District Heating,Centi Stoke,점도의 단위
+270,CT,District Heating,Current Transformer,계기용변류기
+271,CTCS,District Heating,Condenser Tube Cleaning System,복수기관세정장치
+272,CTP,District Heating,Condensate Transfer Pump,복수이송펌프
+273,CV,District Heating,Control Valve,제어밸브
+274,CVCF,District Heating,Constant Voltage Constant Frequency,정전압 정주파수 장치
+275,CVP,District Heating,Condenser Vacuum Pump,복수기 진공펌프
+276,CW,District Heating,Cooling Water,냉각수
+277,CW,District Heating,Circulation Water,순환수
+278,CW,District Heating,Clock Wise,시계방향
+279,CWM,District Heating,Coal & Water Mixture,"석탄, 물 혼합연료"
+280,CWP ,District Heating,Circulating Water Pump,순환수펌프
+281,CWT,District Heating,Combined Water Treatment,산소주입 복합물처리
+282,DAS,District Heating,Data Acquisition System,자료취득장치
+283,DB,District Heating,Duplex Board,배전반
+284,DB,District Heating,Defined Benefit,확정급여형 연금제도
+285,dB(A),District Heating,Decibel Accoustic,소음의단위(음향)
+286,dB(V),District Heating,Decibel Vibration,소음의단위(진동)
+287,DBMS,District Heating,Data Base Management System,데이타베이스관리시스템
+288,DBTT,District Heating,Ductile Brittle Transition Temperature,연성/취성 천이온도
+289,DC,District Heating,Direct Current,직류
+290,DC,District Heating,Defined Contribution,확정기여형 연금제도
+291,DCA,District Heating,Drain Cooler & Approach,열교환기 드레인온도차
+292,DCF,District Heating,Discounted Cash Flow Method,현금할인법
+293,DCM,District Heating,Digital Control & Monitoring System,디지탈측정 및 제어장치
+294,DCMR,District Heating,Down-comer,강수관(降水管)
+295,DCN,District Heating,Design Change Note,설계변경지시서
+296,DCR,District Heating,Design Change Request,설계변경요청서
+297,DCS,District Heating,Distributed Control System,분산제어시스템
+298,DDC,District Heating,Distributed Digital Control System,분산디지탈제어시스템
+299,DDV,District Heating,Disk Dump Valve,급속차단밸브
+300,DE,District Heating,Diesel Engine,디젤엔진
+301,DE,District Heating,Drive End,구동장치측 단부
+302,DE,District Heating,Discharge Electrode,집진기의 방전극
+303,DEA.,District Heating,Deaerator,탈기기
+304,DEHC,District Heating,Digital Electro Hydraulic Control,디지털 전자유압제어장치
+305,Demi-WTR,District Heating,Demineralized Water,순수
+306,DESH,District Heating,De-Superheater,과열저감기
+307,Dev.,District Heating,Deviation,편차
+308,D/G,District Heating,Diesel Generator,디젤발전기
+309,DH,District Heating,District Heating,지역난방
+310,Dia.,District Heating,Diameter,"지름, 직경"
+311,DID,District Heating,Direct Inward Dialing,내신직접착신전화
+312,Diff.,District Heating,Differential,"차이, 차동(差動)"
+313,Dim.,District Heating,Dimension,"규격, 칫수"
+314,DIN,District Heating,Deutsches Industrie Normen,독일공업규격
+315,Disch.,District Heating,Discharge,"토출, 출구"
+316,D/L,District Heating,Distribution Line,배전선로
+317,D/M,District Heating,Drum,드럼
+318,DM,District Heating,Demand Meter,최대수요전력계
+319,DNS,District Heating,Domain Name System,도메인명 변경시스템
+320,DO,District Heating,DH Operator,열공급 설비 운영요원
+321,DO,District Heating,Diesel Oil,경유
+322,DO,District Heating,Dissolved Oxygen,용존산소
+323,Doc.,District Heating,Documents,문서(자료)
+324,DP,District Heating,Damper,댐퍼
+325,DPS,District Heating,Data Processing System,데이터 처리장치
+326,DRN,District Heating,Drain,배출수
+327,DRT,District Heating,Dynamic Responsibility Test,동특성시험
+328,DS,District Heating,Disconnecting Switch,단로기
+329,DS,District Heating,Detail Schedule,시행(상세)공정표
+330,DSCR,District Heating,Debt Service Coverage Ratio,부채상환계수
+331,DSM,District Heating,Demand Side Management,수요관리
+332,DSS,District Heating,Daily Start & Stop,발전소 일일기동정지
+333,DSS,District Heating,Decision Support System,의사결정지원시스템
+334,DTP,District Heating,Drain Transfer Pump,응축수 이송펌프
+335,DU,District Heating,Activity Duration,공기(소요기간)
+336,DW,District Heating,Dead Weight,사(死)하중
+337,DW,District Heating,Demi Water,순수(純水)
+338,DWG,District Heating,Drawing,도면
+339,DWS,District Heating,Detail Work Schedule,상세작업공정표
+340,Ea.,District Heating,Each,개(個)
+341,EA,District Heating,Enterprise Architecture,전사적 통합구성
+342,EAI,District Heating,Enterprise Application Integration,기업 업무통합
+343,EaR,District Heating,Earnings at Risk,위험노출이익
+344,EBIT,District Heating,Earning Before Interest and tax to sales,이자 및 법인세차감전 순이익
+345,EBITDA,District Heating,"Earning Before Interest, Depreciation and Amortization","이자비용, 법인세, 감가상각비를 공제하기 이전의 이익"
+346,EBOP,District Heating,Emergency Bearing Oil Pump,비상용베어링윤활펌프
+347,EC,District Heating,Electronic Commerce,전자상거래
+348,Ecc.,District Heating,Eccentricity,편신(偏心)
+349,ECO.,District Heating,Economizer,절탄기
+350,ECP,District Heating,Engineering Calculation Progress,설계 계산진행표
+351,ECN,District Heating,Engineering Change Notice,설계변경지시서
+352,ECR,District Heating,Engineering Change Request,설계변경 요청서
+353,ECT,District Heating,Eddy Current Test,와류탐상시험(비파괴검사)
+354,EDI,District Heating,Electronic Data Interchange,전자문서교환
+355,EDM,District Heating,Electronic Document Management,전자문서관리
+356,EDP,District Heating,Engineering Drawing Progress,설계도면 진행표
+357,EDS,District Heating,Engineering Delivery Schedule,기술제공 일정표
+358,EFCC,District Heating,Externally Fired Combined Cycle,외부연소사이클
+359,EFF.,District Heating,Efficiency,효율
+360,EFTS,District Heating,Electronic Funds Transfer System,전자식자금이동시스템
+361,EHC,District Heating,Electro Hydraulic Governor Control,전자유압식 제어장치
+362,EHC,District Heating,Electro Hydraulic Converter,전자유압변환장치
+363,EHS,District Heating,Evaporating Heating Surface,증발전열면
+364,EHT,District Heating,Electric Heat Tracing,전기가열에의한 보온
+365,EIP,District Heating,Enterprise Information Portal,기업정보포탈
+366,EIS,District Heating,Executive Information System,중역정보시스템
+367,EIS,District Heating,Environment Impact Studies,환경영향평가
+368,EL.,District Heating,Elevation,높이
+369,ELB,District Heating,Earth Leakage Breaker,누전차단기
+370,ELD,District Heating,Economic Load Dispatching,경제급전
+371,ELD,District Heating,Equity Linked Deposit,주가지수연동예금상품
+372,ELDC,District Heating,Equivalent Load Duration Curve,등가 부하 유지곡선
+373,ELEP,District Heating,Expansion Line End Point,터빈 증기팽창선 종단점
+374,ELS,District Heating,Equity Linked Securities,주가지수연동상품
+375,ELV,District Heating,Electrical Lockout Valve,전기작동 폐쇄밸브
+376,EMS,District Heating,Energy Management System,에너지관리설비
+377,ENG.,District Heating,Engine,"기관, 엔진"
+378,EOCR,District Heating,Electronic Over-current Relay ,전자식모터보호계전기
+379,EOP,District Heating,Emergency Oil Pump,비상오일펌프
+380,EOP,District Heating,Emergency Operating Procedure,비상운전 절차서
+381,EOS,District Heating,Emergency Overspeed System,비상과속도 보호장치
+382,EP ,District Heating,Electrostatic Precipitator,전기집진기
+383,EPA ,District Heating,Environmental Protection Agency,미국환경보호청
+384,EPC,District Heating,Engineering Procurement Construction,"설계, 조달, 시공계획서"
+385,Equip.,District Heating,Equipment,기기(機器)
+386,ERD,District Heating,Entity Relationship Diagram,개체관계도
+387,ERM,District Heating,Enterprise Risk Management,전사적 위험관리
+388,ERP,District Heating,Enterprise Resource Planning,전사적 자원관리
+389,ERV,District Heating,Electric Relief Valve ,전자식 안전밸브
+390,ES,District Heating,Earthing Disconnecting Switch,접지스위치
+391,ESCO,District Heating,Energy Service Company,에너지절약전문기업
+392,ESP,District Heating,Engineering Specification Progress,기술규격 진행표
+393,ESV,District Heating,Emergency Stop Valve,비상 증기차단변
+394,ETS,District Heating,Emergency Trip System,비상정지장치
+395,ETSV,District Heating,Emergency Trip Solenoid Valve,비상정지용 솔레노이드밸브
+396,ETV,District Heating,Electrical Trip Valve,전기식 차단밸브
+397,EV,District Heating,Earned Value(=BCWP),"기성고 (달성가치, 창출가치)"
+398,EVA,District Heating,Early Valve Actuation,조기 밸브작동
+399,EVA,District Heating,Economic Value Added,경제적부가가치
+400,Evapo.,District Heating,Evaporator,보일러 증발관(증화기)
+401,EWD,District Heating,Electrical Wiring Diagram,전기배선도
+402,Exh.,District Heating,Exhaust ,배기(排氣)
+403,Ext.,District Heating,Extraction,터빈추기
+404,FA,District Heating,Full Arc(Admission),전주분사
+405,FA,District Heating,Fly Ash,비회(飛灰)
+406,FA,District Heating,Factory Automation,공장자동화
+407,FAB.,District Heating,Fabrication,기자재제작(조립)
+408,FC,District Heating,Fixed Carbon,고정탄소
+409,FC,District Heating,Flow Controller,유량제어기
+410,FC,District Heating,Frequency Controller,주파수제어기
+411,FCB,District Heating,Field Circuit Breaker,계자차단기
+412,FCF,District Heating,Free Cash Flow,순현금흐름
+413,FCN,District Heating,Field Change Notice,현장설계변경 지시서
+414,FCO,District Heating,FGD Control Operator,탈황설비 운전요원
+415,FCR,District Heating,Field Change Request,현장설계변경 요청서
+416,FCV,District Heating,Flow Control Valve,유량제어밸브
+417,FD-DCN,District Heating,Field Drawing Design Change Notice,현장설계도면 변경통보서
+418,FDA,District Heating,Final Design Approval,최종설계승인
+419,FDF,District Heating,Forced Draft Fan,압입통풍기
+420,FDN.,District Heating,Foundation,기초
+421,FE,District Heating,Flow Element,유량측정소자
+422,FF,District Heating,Feed Forward(Control),선행제어
+423,FFO,District Heating,Funds From Operations,영업현금흐름
+424,FFPC,District Heating,Firm Fixed Price Contract ,고정가격계약
+425,FG,District Heating,Flow Gauge,유량계
+426,FG,District Heating,Flue Gas,배기가스
+427,FGD,District Heating,Flue Gas Desulfurization,배연탈황
+428,FGO,District Heating,Financial Guarantee Obligation,의무담보금액
+429,FI,District Heating,Flow Indicator,유량지시계
+430,FL.,District Heating,Floor,층
+431,FM,District Heating,Frequency Modulation,주파수변조
+432,FM,District Heating,Frequency Meter,주파수계
+433,FM,District Heating,Field Manual,교범. 매뉴얼
+434,FMS,District Heating,Financial Management Solution,재무관리
+435,FO,District Heating,Fuel Oil,주 연료
+436,FOB,District Heating,Free On Board,본선인도조건 물품가격
+437,FOIC,District Heating,Firm Price Incentive Contract,확정금액계약
+438,FOR,District Heating,Forced Outage Rate,고장정지율
+439,FR,District Heating,Fault Recorder,고장기록계
+440,FS,District Heating,Flow Switch,유량스위치
+441,F/S,District Heating,Feasibility Study,타당성조사
+442,FSC,District Heating,Financial Supervisory Commission,금융감독위원회
+443,FSNL,District Heating,Full Speed No Load,무부하 정격속도
+444,FSPF,District Heating,First Stage Pressure Feedback,제1단 압력궤환
+445,FSS,District Heating,Financial Supervisory Service,금융감독원
+446,FSSS,District Heating,Furnace Safeguard Supervisory System,노 안전 감시장치
+447,FT,District Heating,Flow Transmitter,유량전송기
+448,FT,District Heating,Fluid Temperature,유동점(회융점)
+449,FT.,District Heating,Facilitator,혁신전문가(촉진자)
+450,FV,District Heating,Motor Inching Valve,전동식 인칭밸브
+451,FV,District Heating,Flow Control Valve(=FCV),유량조절밸브
+452,FVM,District Heating,Field Voltage Meter,계자전압계
+453,FW,District Heating,Feed Water,급수
+454,FW,District Heating,Front Wall,전벽(前壁)
+455,FWH,District Heating,Feed Water Heater,급수가열기
+456,FWT,District Heating,Feed Water Tank,급수저장조
+457,GAAP,District Heating,Generally Accepted Accounting Principles,일반적으로 인정된 회계원칙
+458,G/A Dwg,District Heating,General Arrangement Drawing,배치도 (개략도)
+459,GAH,District Heating,Gas Air Heater,가스예열기
+460,GB,District Heating,Guaranteed Bond,보증사채
+461,GCB,District Heating,Gas Circuit Breaker,가스차단기
+462,GE,District Heating,Gas Engine,가스엔진
+463,GEN.,District Heating,Generator,발전기
+464,GHR,District Heating,Gross Heat Rate,발전단 열소비율
+465,GHV ,District Heating,Gross Heating Value(=HHV),고위발열량
+466,GIB,District Heating,Gas Insulated Bus,가스절연모선
+467,GIF,District Heating,Governor Free,자동 주파수조정
+468,GIS,District Heating,Gas Insulated Switchgear,가스절연전기설비
+469,GL,District Heating,Ground Level,지면높이
+470,GOV.,District Heating,Governor,조속기
+471,GP,District Heating,Governing Point,Full Close된 상태의 밸브점
+472,GPS,District Heating,Global Positioning System,위치표적장치
+473,GPM,District Heating,Gallon Per Minute,체적유량단위
+474,GR,District Heating,Guaranteed Reagent ,시약등급
+475,GR,District Heating,Ground Relay,접지계전기
+476,GSC,District Heating,Grand Steam Condenser,밀봉증기 응축기
+477,G/T,District Heating,Gas Turbine,가스터빈
+478,G2B,District Heating,Government To Business,정부가 기업을 대상으로하는사업
+479,GTC,District Heating,General Terms & Condition,계약일반조건
+480,HAD,District Heating,Hot Air Damper,고온공기용 댐퍼
+481,HAG,District Heating,Hot Air Gate,고온공기용 게이트
+482,H/C,District Heating,Hydro Coupling,유체커플링
+483,HCF,District Heating,High Cycle Fatigue,고주파 피로
+484,HDP,District Heating,Heater Drain Pump,급수가열기 응축수펌프
+485,HDR,District Heating,Header,헤더
+486,H/E,District Heating,Heat Exchanger,열교환기
+487,HEA,District Heating,High Energy Arc,고 에너지 아크
+488,HFP,District Heating,Hydraulic Fluid Pump,작동유 펌프
+489,Hg,District Heating,Hydraurgyrum(Mercury),수은
+490,HGPI,District Heating,Hot Gas Path Inspection,가스터빈 고온부 점검
+491,HH,District Heating,High High,고수위
+492,HHV,District Heating,High Heating Value(=GHV),고위발열량
+493,HOB,District Heating,Heat Only Boiler,열전용보일러
+494,HP,District Heating,High Pressure,고압
+495,HP,District Heating,Horse Power,마력
+496,HPES,District Heating,Human Performance Evaluation System,인적요인 분석시스템
+497,HPH,District Heating,High Pressure Heater,고압급수가열기
+498,HR,District Heating,Heat Rate,열소비율(Kcal/Kwh)
+499,HR,District Heating,Human Resource,인적자원관리
+500,HRSG,District Heating,Heat Recovery Steam Generator,배열회수 증기발생기
+501,HS,District Heating,Hand Switch,조작스위치
+502,HSFV,District Heating,Heating Steam Feed Valve,가열증기 공급밸브
+503,HSPV,District Heating,Heating Steam Pressure Valve,가열증기 가압밸브
+504,HT,District Heating,Hydro Test,수압시험
+505,HTG,District Heating,Heating,가열
+506,HTR,District Heating,Heater,가열기
+507,HV,District Heating,Pneumatic On-off Valve,공기식 차단밸브
+508,HV,District Heating,On-off Type Valve,차단밸브
+509,HVAC,District Heating,Heating Ventilating & Air Conditioning,공기조화설비
+510,HVDC,District Heating,High Voltage Direct Current,고압직류
+511,HVT,District Heating,High Velocity Thermocouple,고속열전대
+512,Hz,District Heating,Hertz,주파수의 단위(C/S)
+513,IA,District Heating,Instrument Air,공정용공기
+514,IAC,District Heating,Instrument Air Compressor,제어용 공기압축기
+515,IASB,District Heating,International Accounting Standards Board,국제회계기준위원회
+516,IC,District Heating,Integrated Circuit,집적회로
+517,IC,District Heating,Invested Capital,투하자본
+518,I&C,District Heating,Instrument & Control,계측제어
+519,ICFR,District Heating,Internal Controls over Financial Reporting,재무보고 내부통제
+520,ICV,District Heating,Intermediate Control Valve,중압터빈 제어밸브
+521,ID,District Heating,Inner Diameter,내경(內徑)
+522,IDC,District Heating,Interest During Construction,건설중 이자
+523,IDEA,District Heating,International District Energy Association,국제지역에너지협회
+524,IDF,District Heating,Induced Draft Fan,유입통풍기
+525,ID No.,District Heating,Identification Number,분류번호
+526,IDT,District Heating,Initial Deformation Temperature,최소변형점(온도)
+527,IEA,District Heating,International Energy Agency,국제에너지기구
+528,IF,District Heating,Initial Firing,최초점화
+529,IFB,District Heating,Insulating Fire Brick,절연내화벽돌
+530,IGCC,District Heating,Integrated Coal Gasification Combined Cycle,석탄가스화 복합사이클
+531,IGFC,District Heating,Integrated Gasification Fuel Cell,가스화 복합 연료전지
+532,IGV,District Heating,Inlet Guide Vane,가스터빈 입구 안내날개
+533,I/L,District Heating,Import License,수입면장
+534,IMT,District Heating,Intermediate Meeting,공정회의
+535,INC.,District Heating,Incinerator,소각로
+536,Inj.,District Heating,Injection,주입
+537,I/O,District Heating,Input Output,입출력
+538,IP,District Heating,Intermediate Pressure,중압
+539,IPB,District Heating,Isolated Phase Bus,상분리모선
+540,IPC,District Heating,Inlet Pressure Controller,입구 압력조정기
+541,IPL,District Heating,Inlet Pressure Limiter,입구 증기압 제한기
+542,IPR,District Heating,Inlet Pressure Regulator,입구 증기압 조정기
+543,IPS,District Heating,Intrusion Prevention System,침입방지시스템
+544,IR,District Heating,Infra Red,적외선
+545,IRR,District Heating,Internal Rate Of Return,내부수익율법
+546,IS,District Heating,Interruptible Switch,인터럽 스위치
+547,ISDN,District Heating,Integrated Service Digital Network,종합정보통신망
+548,ISO,District Heating,International Organization For Standardization,국제표준화기구
+549,Iso.,District Heating,Isometric,"같은 크기(길이, 용적)의"
+550,IT,District Heating,Information Technology,정보기술
+551,ITB,District Heating,Invitation To Bid(=Instruction to Bid),입찰초청장
+552,ITB,District Heating,Invitation To Bid(=Invitation for Tender),입찰안내서
+553,ITP,District Heating,Instruction to Proposal,응찰안내서
+554,IV,District Heating,Intercept Valve,중압터빈 차단밸브
+555,J/B,District Heating,Junction Box,중간 단자함
+556,JIS,District Heating,Japanese Industrial Standard,일본공업규격
+557,JOP,District Heating,Jacking Oil Pump,재킹오일 펌프
+558,JSME,District Heating,Japanese Society Of Mechanical Engineers,일반기계학회
+559,KAI,District Heating,Korea Accounting Institute,한국회계연구원
+560,KASB,District Heating,Korea Accounting Standards Board,한국회계기준위원회
+561,KCSI,District Heating,Korean Customer Satisfaction Index,한국산업의 고객만족도
+562,KICPA,District Heating,Korea Institute of Certified Public Accountant,한국공인회계사
+563,KM,District Heating,Knowledge Management,지식경영
+564,KMS,District Heating,Knowledge Management System,지식경영시스템
+565,KPI,District Heating,Key Performance Indicator,핵심성과지표
+566,KRI,District Heating,Key Risk Indicator,핵심위험지표
+567,KS,District Heating,Korea Industrial Standards,한국산업규격
+568,KV,District Heating,Kilo Voltage,"고압(1,000볼트)"
+569,KVA,District Heating,Kilo Volt Ampere,피상전력
+570,KVAR,District Heating,Kilo Var,무효전력
+571,KVD,District Heating,Key Value Driver,핵심가치동인
+572,KW,District Heating,Kilo Watt,유효전력
+573,kWh,District Heating,Kilo Watt Hour,전력량
+574,LA,District Heating,Lightning Arrester,피뢰기
+575,LAN,District Heating,Local Area Network,근거리통신망
+576,lb,District Heating,Pounds,파운드
+577,LC,District Heating,Load Center,전원공급실(전기실)
+578,L/C,District Heating,Letter Of Credit,신용장
+579,LCA,District Heating,Life Cycle Assessment,적극적 환경영향평가법
+580,LCC,District Heating,Life Cycle Cost accounting,수명주기원가계산
+581,LCO,District Heating,Load Cycling Operation,중간부하운전
+582,LCF,District Heating,Low Cycle Fatigue,저주파 피로
+583,LCP,District Heating,Local Control Panel ,현장제어반
+584,LDT,District Heating,Load Dump Test,부하차단시험
+585,LDC,District Heating,Load Duration Curve,부하유지곡선
+586,LCV,District Heating,Level Control Valve,수위제어밸브
+587,LED,District Heating,Light Emitting Diode,발광다이오드
+588,LF,District Heating,Load Factor,부하율
+589,LFG,District Heating,Landfill Gas,매립가스
+590,LG,District Heating,Level Gauge,수위계
+591,LGCM,District Heating,Levelized Generation Cost Method,균등화 발전비용계산법
+592,LHV,District Heating,Low Heating Value,저위발열량
+593,L/I,District Heating,Letter Of Intent,계약의향서
+594,LIT,District Heating,Level Indicator Transmitter,수위전송기
+595,LL,District Heating,Low Level,최저수위
+596,LL,District Heating,Low Low,저수위
+597,LLM,District Heating,Load Limiter Motor,부하제한기용 전동기
+598,LMTD,District Heating,Logarithmic Mean Temperature Difference,대수평균온도차
+599,LNG,District Heating,Liquefied Natural Gas,액화천연가스
+600,LO,District Heating,Lubricating Oil,윤활유
+601,LO,District Heating,Light Oil,경유
+602,LOEP,District Heating,Loss Of Energy Probability,공급지장 에너지확율
+603,LOLP,District Heating,Loss Of Load Probability,공급지장 확율
+604,LOR,District Heating,Lock Out Relay ,폐쇄계전기
+605,LP,District Heating,Low Pressure,저압
+606,LPG,District Heating,Liquefied Petroleum Gas,액화석유가스
+607,LS,District Heating,Level Switch,수위스위치
+608,LS,District Heating,Line Switch,선로개폐기
+609,LS,District Heating,Limit Switch,리미트스위치
+610,LSC,District Heating,Lump Sum Contract,총가계약
+611,LSB,District Heating,Last Stage Blade,터빈 최종단 날개
+612,LSI,District Heating,Large Scale Integrated Circuit,고집적회로
+613,LST,District Heating,Load Swing Test,부하변동시험
+614,LSWR,District Heating,Low Sulphur Waxy Residue,저유황중유
+615,LTG,District Heating,Lighting,조명
+616,LV,District Heating,Low Voltage,저전압
+617,LVDT,District Heating,Linear Variable Differential Transformer,선형가변차동변환기
+618,LVL,District Heating,Level,수위
+619,M&A,District Heating,Mergers and Acquisitions,기업 인수 합병 
+620,MAINT.,District Heating,Maintenance,"정비, 보수"
+621,MAN.,District Heating,Manual,수동
+622,MAX.,District Heating,Maximum,최대
+623,MBB,District Heating,Magnetic Blast Breaker,자기차단기
+624,MBO,District Heating,Management by Objective ,목표관리제
+625,MBP,District Heating,Mixed Bed Polishing,물처리혼상탑
+626,MBR,District Heating,Maximum Boiler Rating,최대증발정격
+627,MCB,District Heating,Miniature Circuit Breaker,소형차단기
+628,MCC,District Heating,Motor Control Center,전동기제어반
+629,MCCB,District Heating,Molded Case Circuit Breaker,배선용차단기
+630,MCR,District Heating,Maximum Continuous Rating,최대연속정격
+631,MCSG,District Heating,Metal Clad Switchgear,금속폐쇄배전반
+632,MCWP,District Heating,Main Cooling Water Pump(=CWP),냉각수펌프
+633,MD,District Heating,Man Day,1인1일작업량
+634,MD,District Heating,Metal Detector,금속탐지기
+635,MDA,District Heating,Multi Dimension Analysis,다중판별분석
+636,MDL,District Heating,Master Distribution List,문서배부목록
+637,MEB,District Heating,Main Electrical Board,주전기반
+638,MECH.,District Heating,Mechanical,기계적인
+639,MFG,District Heating,Main Function Group,제어계통의 주기능그룹
+640,MFT,District Heating,Master Fuel Trip,주연료 차단장치
+641,MGR,District Heating,Maximum Guaranteed Rating,최대보증출력
+642,MHC,District Heating,Mechanical Hydraulic Control System,기체유체식 제어계통
+643,MHD,District Heating,Magneto Hydro Dynamic,자기유체발전방식
+644,MIS,District Heating,Management Information System,경영정보시스템
+645,MLV,District Heating,Master Trip Lockout Valve,정지 폐쇄밸브
+646,MMF,District Heating,Money Market Fund,수시입출식 투자신탁상품
+647,MMDA,District Heating,Money Market Deposit Account,수시입출식 예금상품
+648,MOF,District Heating,Metering Oil Fit,계기용 변압변류기
+649,MOP,District Heating,Main Oil Pump,주 윤활유 펌프
+650,MOV,District Heating,Motor Operated Valve,전동기구동밸브
+651,MP,District Heating,Marginal Price,한계가격
+652,MPL,District Heating,Master Parts List,주요부품목록
+653,MPR,District Heating,Monthly Progress Report,월간진도보고서
+654,MR,District Heating,Material Requisition,자재요구서
+655,MR,District Heating,Market Research,시장조사
+656,MRI,District Heating,Material Receiving Invoice,자재인수서
+657,MRR,District Heating,Material Receiving Report,자재인수보고서
+658,MS,District Heating,Main Steam,주증기
+659,MSOP,District Heating,Main Seal Oil Pump,주 밀봉유 펌프
+660,MSP,District Heating,Main Suction Pump,흡입펌프
+661,MSV,District Heating,Main Stop Valve,주증기 차단변
+662,MT,District Heating,Magnetic Particle Test,자분탐상시험
+663,MTBFO,District Heating,Mean Time Between Forced Outage,고장정기간 평균시간
+664,MTD,District Heating,Mean Temperature Difference,평균온도차
+665,MTR,District Heating,Motor,전동기
+666,MTTR,District Heating,Mean Time To Repair,평균정비시간
+667,MTV,District Heating,Mechanical Trip Valve,기계식 트립장치
+668,MU,District Heating,Make Up,보충수
+669,MW,District Heating,Mega Watt,"1,000kW"
+670,MWe ,District Heating,Mega Watt Electric,전기출력 메가와트
+671,MWh,District Heating,Mega Watt Hour,"1,000kW 시"
+672,MWt,District Heating,Mega Watt Thermal,열출력 메가와트
+673,MWT,District Heating,Meutralized Water Treatment,중성수 처리
+674,NA,District Heating,Non Applicable,해당없음
+675,NC,District Heating,Normally Closed,상시닫힘
+676,NCR,District Heating,Nominal Continuous Rating,공칭 연속정격
+677,NCR,District Heating,Non Conformance Report,부적합지시서
+678,NCSI,District Heating,National Customer Satisfaction Index,국가 고객만족지수
+679,NDE,District Heating,Non Drive End,구동장치 반대측 단부
+680,NDT,District Heating,Non Destructive Test,비파괴검사
+681,NEC,District Heating,National Electrical Code,국제전기코드
+682,NFB,District Heating,No Fuse Circuit Breaker,배선용차단기
+683,NG,District Heating,Natural Gas,천연가스
+684,NHR,District Heating,Net Heat Rate,순열소비율
+685,NL,District Heating,No Load,무부하
+686,NLTC,District Heating,No Load Tap Charger,무부하 탭 절환장치
+687,NO,District Heating,Normally Open,상시열림
+688,No.,District Heating,Number,번호
+689,NOPAT,District Heating,Net Operating Profit After Tax(=NOPLAT),세후 영업이익
+690,NOx,District Heating,Nitrogen Oxides,질소산화물
+691,NPSH,District Heating,Net Positive Suction Head,유효흡입수두
+692,NPV,District Heating,Net Present Value,순현재가치법
+693,NR,District Heating,Nominal Rating,공칭정격
+694,NRV,District Heating,Non Return Valve,역류방지밸브
+695,NSPB,District Heating,Non Segregate Phase Bus,상분리모선
+696,NWC,District Heating,Net Working Capital,순운전자금
+697,OA,District Heating,Office Automation,사무자동화
+698,OCB,District Heating,Oil Circuit Breaker,유입차단기
+699,OCR,District Heating,Over Current Relay ,과전류계전기
+700,OD,District Heating,Outer Diameter,외경
+701,OF,District Heating,Oil Filled Cable,유입케이블
+702,OFA,District Heating,Over Fire Air,2차 연소용 공기
+703,O/H,District Heating,Overhaul,계획예방정비
+704,OJT,District Heating,On The Job Training,현장실무교육
+705,OLTC,District Heating,On Load Tap Changer,부하시 탭 절환장치
+706,Oper.,District Heating,Operation,운전
+707,OPGW,District Heating,Optical Fiber Composit Overhead Ground Wire,광섬유 복합가공지선
+708,OR,District Heating,Operating Reserve,운전예비율
+709,ORAP,District Heating,Operation Reliability Analysis Program,운전신뢰도분석프로그램
+710,OS,District Heating,Over Speed,과속도
+711,OSCG.,District Heating,Oscillograph,오실로그래프
+712,OT,District Heating,Oil Of Transformer,변압기유
+713,OTSV,District Heating,Oil Trip Solenoid Valve,오일트립 전자밸브
+714,OTU,District Heating,Once Through Unit,관류형 보일러
+715,PA,District Heating,Plant Air,작업용공기
+716,PA,District Heating,Partial Arc,부분방전
+717,PA,District Heating,Primary Air,1차 공기
+718,PAC,District Heating,Plant Air Compressor,작업용 공기압축기
+719,PAF,District Heating,Primary Air Fan,1차 공기 통풍기
+720,PB,District Heating,Push Button,누름스위치
+721,PB,District Heating,Project Budgeting,사업예산
+722,PB,District Heating,Payback Period ,회수기간
+723,PBR,District Heating,Price/Book Value Ratio,주가장부가치비율
+724,PCB,District Heating,Printed Circuit Board,인쇄회로기판
+725,PCB,District Heating,Power Circuit Breaker,전력용 차단기
+726,PCP,District Heating,Pendant Convection Pass,수직형 대류통로
+727,PCSI,District Heating,Public-service Customer Satisfaction Index,공공서비스 고객만족도지수
+728,PCV,District Heating,Pressure Control Valve,압력제어밸브
+729,PDCV,District Heating,Pressure Differential Control Valve,차압유량조절밸브
+730,PDL,District Heating,Project Distribution List,문서배분기준
+731,PDS,District Heating,Procurement Delivery Schedule,자재인도공정표
+732,PDS,District Heating,Procurement Detail Schedule,구매시행공정표
+733,PE,District Heating,Project Engineer,사업관리 담당자
+734,PEM,District Heating,Primary Event Monitor,주요 고장 감시장치
+735,PER,District Heating,Price Earning Ratio,주가수익율
+736,PERT,District Heating,Program Evaluation & Review Technique,프로그램 평가검토 기법
+737,PF,District Heating,Power Factor,역률
+738,PF,District Heating,Plant Factor,발전율
+739,PF,District Heating,Project Financing,프로젝트 파이낸싱
+740,PFBC,District Heating,Pressurized Fluidizing Bed Combustion,가압유동층연소
+741,pH,District Heating,Hydrogen Exponent,수소이온농도지수
+742,PI,District Heating,Pressure Indicator,압력계
+743,PI,District Heating,Price Index,물가지수
+744,PI,District Heating,Preliminary Issue,예비설계결과물 발행 (승인용)
+745,PI,District Heating,Process Innovation,프로세스혁신
+746,P&ID,District Heating,Piping & Instrument Diagram ,배관 및 계측도
+747,PID,District Heating,Proportional Integrated Differential,"비례, 적분 미분동작"
+748,PIM,District Heating,Pre Inspection Meeting,사전검사회의
+749,PIT,District Heating,Pressure Indicator Transmitter,압력전송기
+750,P/L,District Heating,Pipe Line,배관
+751,P/L,District Heating,Packing List,포장명세서
+752,PM,District Heating,Preventive Maintenance,예방정비
+753,PM,District Heating,Project Manager,사업관리 책임자
+754,PM,District Heating,Project Management,사업관리
+755,PM,District Heating,Pollution Minimum,저공해 연소설비
+756,PMS,District Heating,Project Master Schedule,주공정표(=기본공정표)
+757,PMS,District Heating,Project Management System,사업관리체계
+758,PMS,District Heating,Project Milestone Schedule,기본공정표
+759,PMG,District Heating,Permanent Magnetic Generator,영구자석발전기
+760,PNL,District Heating,Panel,배전반
+761,PNS,District Heating,Project Numbering System,사업번호체계
+762,PO,District Heating,Purchase Order,구매지시서
+763,PO,District Heating,Booster Pump Operator,가압장 운영요원
+764,PO No.,District Heating,Purchase Order Item Number,구매규격서 항목번호
+765,POR,District Heating,Purchase Order Requisition,구매지시 요구서
+766,PO Spec.,District Heating,Purchase Order Specification,구매규격서
+767,P/P,District Heating,Power Plant,발전소
+768,Pp,District Heating,PumP,펌프
+769,PPA,District Heating,Power Purchase Agreement,전력수급계약
+770,PPB,District Heating,Parts Per Billion,10억분의 1
+771,PPM,District Heating,Parts Per Million,백만분의 1
+772,PPM,District Heating,Project Procedure Manual,사업수행절차서
+773,PQ,District Heating,Pre-qualification,사전자격심사
+774,PR,District Heating,Progress Report,진도보고서
+775,Pr.,District Heating,Pressure,압력
+776,PRM,District Heating,Project Review Meeting,사업추진회의
+777,PS,District Heating,Pressure Switch,압력스위치
+778,PS,District Heating,Power Supply,전원공급장치
+779,PSH,District Heating,Primary Super Heater,1차 과열기
+780,PSR,District Heating,Price/Sales Ratio,주가매출비율
+781,PSS,District Heating,Project Summary Schedule,프로젝트 종합공정표
+782,PSS,District Heating,Power Stability System,계통안정화장치
+783,PSS,District Heating,Plant Automation Start Up & Shut Down,발전소 자동 기동정지장치
+784,PT,District Heating,Performance Test,성능시험
+785,PT,District Heating,Potential Transformer,계기용변압기
+786,PTC,District Heating,Performance Test Code,성능시험코드
+787,PTR,District Heating,Pole Transformer,주상변압기
+788,PU,District Heating,Pick Up,측정소자
+789,PV,District Heating,Present Value Method,현재가치법
+790,PVC,District Heating,Process Video Control System,발전소 화상제어장치
+791,PVC,District Heating,Poly Vinyl Chloride,폴리 염화비닐
+792,PWR,District Heating,Power,전원
+793,QA,District Heating,Quality Assurance,품질보증
+794,QAM,District Heating,Quality Assurance Manual,품질보증 계획서
+795,QAP,District Heating,Quality Assurance Procedure,품질보증 절차서
+796,QC,District Heating,Quality Control,품질관리
+797,QMI,District Heating,Quick Market Intelligence,신속한 시장정보
+798,QP,District Heating,Quality Planning,품질계획수립
+799,QP,District Heating,Quality Policy,품질정책
+800,QS,District Heating,Quick Start,급속기동
+801,QS,District Heating,Quality Surveillance,품질검사
+802,Qty.,District Heating,Quantity,수량
+803,QVDL,District Heating,Quality Verification Documents List,품질확인서
+804,R,District Heating,Resistor,저항기
+805,RAM,District Heating,Random Access Memory,컴퓨터 기억장치
+806,RAM,District Heating,Reliability Availability Maintainability,"신뢰성, 유용성, 정비성"
+807,RB,District Heating,Run Back,출력 급감발
+808,RBLR.,District Heating,Reboiler(Steam Converter),보조증기 발생기
+809,RC,District Heating,Re-Closer,재폐로기
+810,RCM,District Heating,Reliability Centered Maintenance,신뢰도 중심정비
+811,RCR,District Heating,Reverse Current Relay,역상전류계전기
+812,RCV,District Heating,Reheat Control Valve,재열증기 제어밸브
+813,R&D,District Heating,Research & Development,연구개발
+814,RDF,District Heating,Refuse Derived Fuel,쓰레기 연료
+815,RDU,District Heating,Remaining Duration,잔여기간 (공기)
+816,Recir.,District Heating,Recirculation,재순환
+817,Ref.,District Heating,Reference,"기준, 참고"
+818,Regen.,District Heating,Regeneration,재생
+819,Rev.,District Heating,Revision,수정
+820,Rev.,District Heating,Revolution,회전수
+821,RFID,District Heating,Radio Frequency Identification,무선주파수식별
+822,RFP,District Heating,Request For Proposal,입찰권유서
+823,RFV,District Heating,Reverse Flow Valve,역류밸브
+824,R/H,District Heating,Reheater,재열기
+825,RM,District Heating,Risk Management,위험관리
+826,ROA,District Heating,Return On Assets,총자산순이익율
+827,ROE,District Heating,Return On Equity,자기자본순이익률
+828,ROI,District Heating,Return on Investment,투자수익률
+829,ROIC,District Heating,Return On Invested Capital,투하자본수익률
+830,RP,District Heating,Repurchase Agreement Repo,환매조건부채권
+831,RPA,District Heating,Renewable Portfolio Agreement,신재생에너지 공급참여 협약
+832,RPS,District Heating,Renewable Portfolio Standards,신재생에너지 발전의무비율할당제
+833,ROP,District Heating,Relay Oil Pump,릴레이 오일펌프
+834,RPM,District Heating,Revolutions Per Minutes,분당회전수
+835,RSI,District Heating,Rotor Stress Indicator,터빈회전자 응력지시계
+836,RSOP,District Heating,Recirculation Seal Oil Pump,재순환밀봉유펌프
+837,RSV,District Heating,Reheat Stop Valve,재열증기 차단밸브
+838,RT,District Heating,Radio Graphic Test,방사선투과검사
+839,RTD,District Heating,Resistance Temperature Detector,저항온도검출기
+840,RTU,District Heating,Remote Terminal Unit,원격단말장치
+841,RVR,District Heating,Reverse Voltage Relay,역상전압계전기
+842,RW,District Heating,Raw Water,원수
+843,Ry,District Heating,Relay,계전기
+844,SA,District Heating,Service Air,작업용공기
+845,SA,District Heating,Surge Arrestor,피뢰기
+846,SA,District Heating,Seal Air,밀봉용증기
+847,SA,District Heating,Steam Admission,통기(증기터빈에 증기인입)
+848,SAC,District Heating,Service Air Compressor,작업용공기압축기
+849,SAF,District Heating,Seal Air Fan,밀봉용 공기통풍기
+850,SAH,District Heating,Steam Air Heater,증기식 공기예열기
+851,Sat.,District Heating,Saturation,포화
+852,S/B,District Heating,Soot Blower,보일러 제매장치
+853,SB,District Heating,Switch Board,배전반
+854,SC,District Heating,Static Condenser,축전지
+855,SCADA,District Heating,Supervisory Control & Data Acquisition,지역급전시스템
+856,SCAM,District Heating,System Cost Analysis Method,계통비용분석법
+857,Scav.,District Heating,Scavenge,배기
+858,SCC,District Heating,Stress Corrosion Crack,응력부식균열
+859,Sch.,District Heating,Schedule,계획
+860,SCM,District Heating,Supply Chain Management,공급사슬관리(경영혁신)
+861,SCO,District Heating,State Controller With Observer,상태변수제어기
+862,SCR,District Heating,Selective Catalytic Reduction,선택적 촉매환원
+863,SCR,District Heating,Silicone Controlled Rectifier,실리콘정류기
+864,SCSF,District Heating,Single Casing Single Flow,단통 단류터빈
+865,SCWP,District Heating,Stator Cooling Water Pump,발전기고정자 냉각수펌프
+866,SDB,District Heating,Signal Distribution Board,신호분배반
+867,SDD,District Heating,Steam Dumping Device,증기우회 배출장치
+868,SDDR,District Heating,Supplier Deviation Disposition Request,공급자 변경요구서
+869,SDDR,District Heating,Supplier Drawings & Documents Review,공급자 도면/자료 검토
+870,SEC,District Heating,Securities and Exchange Commission,미국증권거래위원회
+871,SEM,District Heating,Strategic Enterprise Management,전략경영
+872,SEP.,District Heating,Separator,분리기
+873,SER,District Heating,Sequence Of Event Recoder,순차사고기록계
+874,SFC,District Heating,Static Frequency Converter,정지형 주파수 변환장치
+875,SG,District Heating,Steam Generator,증기발생기
+876,S/H,District Heating,Super Heater,과열기
+877,SHRM,District Heating,Society for Human Resource Management,전략적 인적자원관리
+878,SIT,District Heating,Sharpy Impact Test,충격시험
+879,SLA,District Heating,Service Level Agreement,서비스 수준관리
+880,SM ,District Heating,Starting Motor,기동용전동기
+881,SMP,District Heating,System Marginal Price,계통한계가격
+882,SMS,District Heating,Short Message Service,단문메세지서비스
+883,S/N,District Heating,Shipping Notice,선적통보서
+884,SNCR,District Heating,Selective Non Catalytic Reduction,선택적 비촉매환원
+885,SO,District Heating,System Operation,계통운영
+886,SOA,District Heating,Sarbanes Oxley Act,미국의 회계개혁법
+887,Sol.,District Heating,Solenoid,솔레노이드
+888,SOP,District Heating,Seal Oil Pump,밀봉유펌프
+889,SORP,District Heating,Seal Oil Recirculation Pump,밀봉유 순환펌프
+890,SOx,District Heating,Sulfur Oxides,황산화물
+891,S/P,District Heating,Spare Parts,정비예비품
+892,SP,District Heating,Spining Reserve,순동예비력
+893,Spec.,District Heating,Specifications,시방서 (기술규격서)
+894,SPD.,District Heating,Speed,속도
+895,SPM,District Heating,Strategy Performance Management,성과관리
+896,SR,District Heating,Shunt Reactor,분로리엑터
+897,S/S,District Heating,Substation,변전소
+898,SS,District Heating,Selector Switch,선택스위치
+899,SS,District Heating,Suspended Solid,부유물질
+900,SSD,District Heating,Static Starting Device,가스터빈 정지현 기동장치
+901,SSFV,District Heating,Seal Steam Feed Valve,밀봉증기 공급밸브
+902,SSG,District Heating,Speed Single Generator,전자식 조속기
+903,SSH,District Heating,Secondary Superheater,2차 과열기
+904,SSR,District Heating,Steam Seal Regulator,밀봉증기 조정기
+905,SST,District Heating,Solid State Trip Device,전자식 트립장치
+906,S/T,District Heating,Steam Turbine,증기터빈
+907,STD,District Heating,Standard,표준
+908,STG.,District Heating,Stage,단(段)
+909,STM,District Heating,Steam,증기
+910,STR,District Heating,Strainer,여과기
+911,Su,District Heating,Start-up ,기동
+912,Suc.,District Heating,Suction,"흡입구, 입구측"
+913,SUS,District Heating,Stainless Steel,스테인레스강
+914,SUT ,District Heating,Start-up Transformer,기동변압기
+915,SV,District Heating,Solenoid Valve,전자밸브
+916,SV,District Heating,Stop Valve,차단밸브
+917,SV,District Heating,Safety Valve,안전밸브
+918,S/W,District Heating,Switch,스위치
+919,SWGR,District Heating,Switch Gear,스위치기어
+920,SYN.,District Heating,Synchronization,계통병입
+921,SYS.,District Heating,System,계통
+922,6 SIGMA,District Heating,6 Sigma Management,6시그마경영
+923,TAT,District Heating,Turbine After Temperature,G/T 출구 가스온도
+924,TB,District Heating,Terminal Board,단자대
+925,TBN,District Heating,Turbine,터빈
+926,T/C,District Heating,Thermo Couple,온도검출소자
+927,TCQF,District Heating,Tandem Compound Quadruple Flow,직렬 단류터빈
+928,TCO,District Heating,"TBN/GEN, DH Control Operator","터빈, 열공급설비 제어 운전원"
+929,TCP,District Heating,Turbine Control Panel ,터빈제어판넬
+930,TCV,District Heating,Temperature Control Valve,온도제어밸브
+931,TDDO,District Heating,Time Delay Drop Out,한시복귀
+932,TDO,District Heating,"TBN/GEN, Auxiliary DH Operator","터빈, 열공급설비 보조 운전원"
+933,TDPU,District Heating,Time Delay Pick Up,한시동작
+934,TDR,District Heating,Turn Down Ratio,계절별 수요격차
+935,TDV,District Heating,Three Way Diverting Valve,3로 전환밸브
+936,TE,District Heating,Temperature Element,온도검출소자
+937,Temp.,District Heating,Temperature,온도
+938,TEP,District Heating,Turbine End Point,터빈종단점
+939,T/G,District Heating,Turbine Generator,터빈발전기
+940,TGOP,District Heating,Turning Gear Oil Pump,터닝기어 오일펌프
+941,TIP,District Heating,Turbine Insert Panel ,터빈인서트판넬
+942,TIT,District Heating,Temperature Indicator Transmitter,온도전송기
+943,TIT,District Heating,Turbine Inlet Temperature,G/T 입구 가스온도
+944,T/L,District Heating,Transmission Line,송전선로
+945,TLD,District Heating,Thermo Luminescence Dosimeter,열형 광선량계
+946,TM,District Heating,Trouble Memo,정비의뢰서
+947,TMS,District Heating,Telemetry Monitoring System,배출가스 자동측정기
+948,T/O,District Heating,Turn Over(↔Take Over),인도(인수/인계/이관)
+949,TOE,District Heating,Ton Of Oil Equivalent,석유환산톤
+950,T/P,District Heating,Thermal Plant,화력발전소
+951,TPM,District Heating,Total Project Management,종합사업관리
+952,TR.,District Heating,Transformer,변압기
+953,TR.,District Heating,Transistor,트랜지스터
+954,TS,District Heating,Temperature Switch,온도스위치
+955,TQC,District Heating,Total Quality Control(=TQM),종합적 품질관리 
+956,TQM,District Heating,Total Quality Management,종합적 품질관리
+957,TTD,District Heating,Time Temperature Difference,종단온도차
+958,TTP,District Heating,Time Temperature Parameter,"시간, 온도변수"
+959,TW,District Heating,Thermo Well,온도보호기
+960,TWBP,District Heating,Two Way Bidding Pool,양방향 입찰시장
+961,TWI,District Heating,Turbine Water Induction,터빈물유입
+962,UA,District Heating,Unloading Arm,유류하역기
+963,UCC,District Heating,Unit Coordinator Control System,보일러-터빈 협조제어
+964,UCR,District Heating,Under Current Relay,저전류계전기
+965,UEEP,District Heating,Used Energy End Point,사용증기종단점(증기팽창선)
+966,UEL,District Heating,Under Excitation Limiter,저여자제한기
+967,UF,District Heating,Utility Factor,이용율
+968,UFR,District Heating,Under Frequency Relay,저주파수 계전기
+969,UH,District Heating,Unit Heater,소내 난방장치
+970,UHF,District Heating,Ultra High Frequency,극초단파
+971,UHV,District Heating,Ultra High Voltage,초초고압
+972,ULD,District Heating,Unit Load Demand,발전소 출력요구신호
+973,ULTC,District Heating,Under Load Tap Changer,부하시 탭 전환장치
+974,UMC,District Heating,Unit Master Controller,발전소 주제어기
+975,UNEP,District Heating,United Nations Environment Program,유엔환경계획
+976,UPR,District Heating,Upper,상부
+977,UPS,District Heating,Uninterrupted Power Supply,무정전전원장치
+978,URAL,District Heating,Under Excited Reactive Ampere Limiter,저여자 무효전류 제한장치
+979,USC,District Heating,Ultra Supercritical Pressure,초초임계압
+980,UT,District Heating,Ultrasonic Test,초음파시험
+981,UV,District Heating,Ultra Violet,자외선
+982,UVR,District Heating,Under Voltage Relay,저전압계전기
+983,V,District Heating,Volt,전압
+984,VA,District Heating,Voluntary Agreement,자발적협약
+985,VAC,District Heating,Volts Alternating Current,교류전압
+986,Vac.,District Heating,Vacuum,진공
+987,VAN,District Heating,Value Added Network,부가가치 통신망
+988,VAS,District Heating,Vibration Analysis System,진동분석장치
+989,VBM,District Heating,Value Based Management,가치중심경영
+990,VCB,District Heating,Vacuum Circuit Breaker,진공차단기
+991,VCB,District Heating,Vertical Control Board,수직제어반
+992,VCI,District Heating,Volatile Corrosion Inhibitor,기화성방향제
+993,VDC,District Heating,Volts Direct Current,직류전압
+994,VF,District Heating,Vent Fan,환기팬
+995,VFCN,District Heating,Vendor Field Change Notice,공급자 현장변경지시서
+996,VFCR,District Heating,Vendor Field Change Request,공급자 현장변경요청서
+997,VHF,District Heating,Very High Frequency,초단파
+998,VHV,District Heating,Very High Voltage,초고압
+999,VI,District Heating,Visible Inspection,육안검사
+1000,Vib.,District Heating,Vibration,진동
+1001,VL,District Heating,Visible Light,가시광선
+1002,VLSI,District Heating,Very Large Scale Integrated Circuit,초대규모 집적회로
+1003,VM,District Heating,Volatile Matter,휘발분
+1004,VMS,District Heating,Vibration Monitoring System,진동 감시장치
+1005,VOC,District Heating,Voice Of Customer,고객의 소리
+1006,Vol%,District Heating,Volume Percent,체적백분율
+1007,VPL,District Heating,Valve Position Limiter ,밸브개도 제한장치
+1008,VPN,District Heating,Virtual Private Network,가상 사설망
+1009,VPT,District Heating,Valve Position Transducer,밸브개도 전송기
+1010,VS,District Heating,Volt Meter Switch,전압선택스위치
+1011,VVVF,District Heating,Variable Voltage Variable Frequency,가변속구동장치
+1012,V/V,District Heating,Valve,밸브
+1013,VWO,District Heating,Valve Wide Open,밸브완전개방
+1014,W,District Heating,Watt,전력의단위
+1015,WACC,District Heating,Weighted Average Cost of Capital,가중평균 자본비용
+1016,WAS,District Heating,Water Analysis System,물분석계통
+1017,W/B,District Heating,Wind Box,풍동(風洞)
+1018,WC,District Heating,Water Column,수주(水柱)
+1019,WDT,District Heating,Watch Dog Timer,컴퓨터 실시간감시
+1020,W/F,District Heating,Weight Factor(=W/V),가중치
+1021,Wh,District Heating,Watt Hour,전력량의단위
+1022,WHM,District Heating,Watt Hour Meter,전력량계
+1023,WI,District Heating,Water Induction,터빈 물 유입
+1024,WO,District Heating,Work-Out,기업개선작업
+1025,W/O,District Heating,Work Order,작업지시서
+1026,WP,District Heating,Work Package,관리단위작업
+1027,WPR,District Heating,Weekly Process Report,주간진도보고서
+1028,WS,District Heating,Water Seal,수밀(水密)
+1029,WT,District Heating,Water Treatment Plant,수처리실
+1030,WWT,District Heating,Waste Water Treatment Plant,폐수처리실
+1031,Wt%,District Heating,Weight Percent,중량백분율
+1032,WTS,District Heating,Water Treatment System,수처리설비
+1033,WTD,District Heating,Winding Temperature Detector,권선온도 검출장치
+1034,WTDM,District Heating,Watt Hour Demand Meter,최대전력표시 전력량계
+1035,WTR,District Heating,Water,물
+1036,W/V,District Heating,Weight Value,가중치
+1037,W/W,District Heating,Water Wall,수냉벽
+1038,ZT,District Heating,Position Transmitter,변위전송기
